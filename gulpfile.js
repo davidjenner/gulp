@@ -1,3 +1,7 @@
+// https://www.npmjs.com/
+// https://www.npmjs.com/package/gulp-sass
+// https://www.npmjs.com/package/gulp-uglifycss
+
 var gulp = require('gulp');
 var sass = require('gulp-sass');
 var uglifycss = require('gulp-uglifycss');
